@@ -1,6 +1,6 @@
-# Welcome to MkDocs
+# Welcome to our git demo
 
-For full documentation visit [mkdocs.org](https://mkdocs.org).
+This is git documentation
 
 ## Commands
 
