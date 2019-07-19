@@ -1,6 +1,6 @@
 # Welcome to our git docs
 
-For full documentation visit [mkdocs.org](https://mkdocs.org).
+This is git documentation
 
 ## Commands
 
