@@ -1,4 +1,4 @@
-# Welcome to the git demo
+# Welcome to our git docs
 
 This is git documentation
 
